@@ -85,22 +85,42 @@ return f[n]
 # 习题
 核心思路：**选或不选**
 
+**基础**
+
 - [力扣 1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/) 模板
-	- 字符串操作问题：
-		- [力扣 583. 两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/) 删除操作
-		- [力扣 712. 两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) ASCII 码背景下的 LCS
-		- 以上两题都可以通过 正难则反 + LCS，或直接 DP 解决
-		- [力扣 72. 编辑距离](https://leetcode.cn/problems/edit-distance/) 
-		- [力扣 115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) 只能对其中一个字符串进行删除操作
-		- [力扣 3628. 插入一个字母的最大子序列数](https://leetcode.cn/problems/maximum-number-of-subsequences-after-one-inserting/) 115 题的变种，插入策略和前后缀分解
-		- [力扣 97. 交错字符串](https://leetcode.cn/problems/interleaving-string/) 用两个样本固定第三个样本
-	- [力扣 1035. 不相交的线](https://leetcode.cn/problems/uncrossed-lines/) LCS
-	- 数列乘积问题：
-		- [力扣 1458. 两个子序列的最大点积](https://leetcode.cn/problems/max-dot-product-of-two-subsequences/) 初始化和表达序列非空
-		- [力扣 3290. 最高乘法得分](https://leetcode.cn/problems/maximum-multiplication-score/) 初始化和表达选择数列的所有
-	- [力扣 718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) 子数组默认连续
+
+- [力扣 1035. 不相交的线](https://leetcode.cn/problems/uncrossed-lines/) LCS
 
 
+**字符串操作问题**
+ 
+- [力扣 583. 两个字符串的删除操作](https://leetcode.cn/problems/delete-operation-for-two-strings/) 删除操作
+ 
+- [力扣 712. 两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/) ASCII 码背景下的 LCS
+ 以上两题都可以通过 正难则反 + LCS，或直接 DP 解决
+ 
+- [力扣 72. 编辑距离](https://leetcode.cn/problems/edit-distance/) 
 
+- [力扣 115. 不同的子序列](https://leetcode.cn/problems/distinct-subsequences/) 只能对其中一个字符串进行删除操作
+
+- [力扣 3628. 插入一个字母的最大子序列数](https://leetcode.cn/problems/maximum-number-of-subsequences-after-one-inserting/) 115 题的变种，插入策略和前后缀分解
+
+- [力扣 97. 交错字符串](https://leetcode.cn/problems/interleaving-string/) 用两个样本固定第三个样本
+
+
+**数列乘积问题**
+
+- [力扣 1458. 两个子序列的最大点积](https://leetcode.cn/problems/max-dot-product-of-two-subsequences/) 初始化和表达序列非空
+
+- [力扣 3290. 最高乘法得分](https://leetcode.cn/problems/maximum-multiplication-score/) 初始化和表达选择数列的所有
+
+
+**进阶**
+
+- [力扣 718. 最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/) 子数组默认连续
+
+- **[力扣 10. 正则表达式匹配](https://leetcode.cn/problems/regular-expression-matching/) LCS + 完全背包**
+
+- [力扣 44. 通配符匹配](https://leetcode.cn/problems/wildcard-matching/) 同 10
 
 #atom 
