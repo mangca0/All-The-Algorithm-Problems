@@ -193,6 +193,8 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 - [力扣 3558. 给边赋权值的方案数 I](https://leetcode.cn/problems/number-of-ways-to-assign-edge-weights-i/) 组合数性质
 
+- [洛谷 P12886 [蓝桥杯 2025 国 Java B] 分配房子](https://www.luogu.com.cn/problem/P12886?contestId=314544) 不变量
+
 **进阶**
 
 - [洛谷 P2822 [NOIP2016 提高组] 组合数问题] DP法 + 前缀和
