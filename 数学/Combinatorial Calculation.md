@@ -104,9 +104,9 @@ According to the data ranges of $n$ and $k$, and the number of queries, there ar
 	    long res = 1L;  
 	    while(b > 0) {  
 	        if ((b & 1) == 1) {  
-	            res = res * x % p;  
+	            res = res * a % p;  
 	        }  
-	        x = x * x % p;  
+	        a = a * a % p;  
 	        b >>= 1;  
 	    }  
 	    return res;  
@@ -132,7 +132,9 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 - **Use case: $n$ and $k$ maximum (e.g. $10^{18}$ ), but modulus $p$ is a smaller prime number** (usually $p \le 10^5$ ).
 
-- **Time complexity:** $O(p \log_p n)$ .
+- Time complexity: $O(p \log_p n)$ .
+
+- Template:
 	
 	```java
 	public class LucasTheorem {
@@ -178,6 +180,8 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 - [力扣 357. 统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/) 
 
 - [力扣 1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/) 
+
+- [力扣 3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/) 组合数
 
 **进阶**
 
