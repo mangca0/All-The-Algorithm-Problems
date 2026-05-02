@@ -171,7 +171,7 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 ## Problems
 
-**基础**
+**入门**
 
 - [牛客 130226 B](https://ac.nowcoder.com/acm/contest/130226/B)
 
@@ -181,7 +181,11 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 - [力扣 1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/) 
 
-- [力扣 3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/) 组合数
+**基础**
+
+- [力扣 3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/) 递推 组合数
+
+- [力扣 1359. 有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/) 
 
 **进阶**
 
