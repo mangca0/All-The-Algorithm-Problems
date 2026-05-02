@@ -183,9 +183,15 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 **基础**
 
+注意**寻找不变量**.
+
 - [力扣 3179. K 秒后第 N 个元素的值](https://leetcode.cn/problems/find-the-n-th-value-after-k-seconds/) 递推 组合数
 
 - [力扣 1359. 有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/) 
+
+- [力扣 2400. 恰好移动 k 步到达某一位置的方法数目](https://leetcode.cn/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) 也可以 DP
+
+- [力扣 3558. 给边赋权值的方案数 I](https://leetcode.cn/problems/number-of-ways-to-assign-edge-weights-i/) 组合数性质
 
 **进阶**
 
