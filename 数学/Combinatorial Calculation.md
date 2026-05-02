@@ -171,9 +171,14 @@ When it $n$ is extremely large but the modulus $p$ is small, it is calculated by
 
 **基础**
 
-[牛客 130226 B](https://ac.nowcoder.com/acm/contest/130226/B)
+- [牛客 130226 B](https://ac.nowcoder.com/acm/contest/130226/B)
 
-[洛谷 P2822 [NOIP2016 提高组] 组合数问题] DP法 + 前缀和
+- [力扣 62. 不同路径](https://leetcode.cn/problems/unique-paths/)
 
+- [力扣 357. 统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/) 
 
-#atom 
+- [力扣 1175. 质数排列](https://leetcode.cn/problems/prime-arrangements/) 
+
+**进阶**
+
+- [洛谷 P2822 [NOIP2016 提高组] 组合数问题] DP法 + 前缀和
