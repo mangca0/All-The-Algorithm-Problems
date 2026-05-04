@@ -34,4 +34,3 @@
 
 - [洛谷 P12891 [蓝桥杯 2025 国 Java B] 瓷砖填充](https://www.luogu.com.cn/problem/P12891) 状态压缩
 
-#atom 
