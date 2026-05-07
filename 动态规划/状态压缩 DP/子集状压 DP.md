@@ -12,6 +12,10 @@
 
 ## Problems
 
-[力扣 2305. 公平分发饼干](https://leetcode.cn/problems/fair-distribution-of-cookies/) 把零食分给孩子
+- [力扣 2305. 公平分发饼干](https://leetcode.cn/problems/fair-distribution-of-cookies/) 把零食分给孩子
 
-[力扣 1655. 分配重复整数](https://leetcode.cn/problems/distribute-repeating-integers/) 把需求分给数字频次 注意桶可以不被使用
+- [力扣 1655. 分配重复整数](https://leetcode.cn/problems/distribute-repeating-integers/) 把需求分给数字频次 注意桶可以不被使用
+
+- [力扣 1986. 完成任务的最少工作时间段](https://leetcode.cn/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) 不需要桶维度
+
+- [力扣 1681. 最小不兼容性](https://leetcode.cn/problems/minimum-incompatibility/) 有 排列型状压做法
