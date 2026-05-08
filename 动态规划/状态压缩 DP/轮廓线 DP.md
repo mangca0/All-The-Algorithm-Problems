@@ -107,7 +107,7 @@ public static void solve() {
 	for (int i = 0; i < (1 << m); i++) {  
 	    ans = (ans + f[cur][i]) % p;  
 	}
-		out.println(ans);
+	out.println(ans);
 }  
 ```
 时间复杂度：$O(nm 2^m)$. 由于存在大量不合法的状态，复杂度不会跑满.
@@ -116,3 +116,6 @@ public static void solve() {
 ## Problems
 
 [洛谷 P1879 [USACO06NOV] Corn Fields G](https://www.luogu.com.cn/record/277067061) 
+
+[力扣 1411. 给 N x 3 网格图涂色的方案数](https://leetcode.cn/problems/number-of-ways-to-paint-n-3-grid/) 用 2 个 bit 位表示一个颜色
+
