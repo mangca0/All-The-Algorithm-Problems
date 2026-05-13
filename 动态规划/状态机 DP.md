@@ -34,3 +34,5 @@
 
 - [洛谷 P12891 [蓝桥杯 2025 国 Java B] 瓷砖填充](https://www.luogu.com.cn/problem/P12891) 状态压缩
 
+- [牛客 134529 F-小红的网格路径 II](https://ac.nowcoder.com/acm/contest/134529/F) 数学优化 (分段常量/区块转移)
+
